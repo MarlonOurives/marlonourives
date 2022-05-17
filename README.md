@@ -1,9 +1,5 @@
 <h2>Olá, bem-vindo ao meu Github</h2>
-<div align="left">
-  <a href="https://github.com/marlonourives">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlonourives&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonourives&layout=compact&langs_count=6&theme=onedark"/>
-</div>
+
 
 
 <div align="center" style="display: inline_block">
